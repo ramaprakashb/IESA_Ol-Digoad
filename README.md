@@ -69,11 +69,7 @@ The model is trained to classify the following **12 classes**:
 
 ## Model Performance
 - Validation Accuracy: **~84.8%**
-- Number of classes: **13**
+- Number of classes: **12**
 - Epochs trained: **~63**
 
 > Accuracy may vary depending on dataset composition and class distribution.
-
----
-
-## Repository Structure
