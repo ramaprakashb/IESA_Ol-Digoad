@@ -1,0 +1,12 @@
+bridge
+clean
+cmp
+crack
+ler
+open
+oxide thickness
+particle_contamination
+pattern collapse
+residue
+strain
+via
